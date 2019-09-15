@@ -10,3 +10,6 @@ Build:
 
 After building the .bin file, you can run it in QEMU or put it on a USB stick and boot it.
 I left some TODOs in the comments.
+
+My webyite: http://mattee.net
+(WORK IN PROGRESS)
