@@ -1,0 +1,1 @@
+{"rustc":7293956369406554685,"features":"[]","target":15586965302802957762,"profile":9935990280773120926,"path":5926609931186598325,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"bare/debug/.fingerprint/spin-7868b21084f7bea9/dep-lib-spin-7868b21084f7bea9"}}],"rustflags":["--sysroot","/home/mattee/Documents/mkernel/target/sysroot"],"metadata":6620005600999123125}

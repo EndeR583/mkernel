@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=/home/mattee/Documents/mkernel/Cargo.toml
+cargo:rustc-link-search=native=/home/mattee/Documents/mkernel/target/bootimage/bootloader/x86_64-bootloader/release/build/bootloader-eb1987b5d33c4b73/out
+cargo:rustc-link-lib=static=kernel_bin-mkernel
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=/home/mattee/Documents/mkernel/target/bare/debug/mkernel
+cargo:rerun-if-changed=build.rs
