@@ -1,0 +1,17 @@
+[package]
+name = "mkernel"
+version = "0.1.0"
+authors = ["mattee"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bootloader = "0.8.0"
+volatile = "0.2.6"
+spin = "0.5.2"
+cpuio = "0.2.0"
+
+[dependencies.lazy_static]
+version = "1.0"
+features = ["spin_no_std"]
