@@ -1,4 +1,6 @@
 # mKernel
+Original creator: https://os.phil-opp.com/
+Check his blog out, it's really helpful.
 A 64 bit kernel made with Rust.
 Feel free to contribute, expand this project.
 In the first place, I want to make a working shell and in the future I would like this to be a complete OS.
